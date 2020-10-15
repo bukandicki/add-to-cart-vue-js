@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "ASUS TUF FX505GT-I565B6T 15.6",
+        "price": 11464000,
+        "imgUrl": "https://id.360buyimg.com/Indonesia/s220x220_/amZzL3Q4Mi84My8xMTk1NjkwOTE4LzEzNjM5Ny81Mjk3ZjBmZi81ZjA0MTBjYk40NjQyZmJlMQ.jpg.dpg.webp"
+    },
+    {
+        "id": 2,
+        "title": "ASUS ROG STRIX G G512LI-I75TB6T",
+        "price": 17216000,
+        "imgUrl": "https://id.360buyimg.com/Indonesia/s220x220_/amZzL3QzNC8yODQvMzA4Mjc4MzQ3Mi85NzQyNC8yMzRlMTVlNi81ZjQ4YzE3N05iOGQ5YzBhOQ.jpg.dpg.webp"
+    },
+    {
+        "id": 3,
+        "title": "Macbook Air 2020 MWTJ2 - Space Grey",
+        "price": 16163000,
+        "imgUrl": "https://id.360buyimg.com/Indonesia/s220x220_/amZzL3Q1OC8xOTQvMTA5NzUyOTE3My8zNTczNi85Y2M5NjEvNWVkZjI5MzJOZjQ3Mjk5NWU.jpg.dpg.webp"
+    },
+    {
+        "id": 4,
+        "title": "APPLE Macbook Air 2020 MWTL26",
+        "price": 16999000,
+        "imgUrl": "https://id.360buyimg.com/Indonesia/s220x220_/amZzL3Q3My80OC8xOTc2OTk1NjY1LzM5MDE3L2M5NWNiZjU2LzVmNTUwZDY3TmNkMjZlNTVm.jpg.dpg.webp"
+    }
+]
